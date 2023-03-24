@@ -28,6 +28,6 @@ For spacy we used the model "es_dep_news_trf", which is more accurate and comple
 
 ## Authors
 This project was made by the following students of 42 Barcelona:
-* omoreno-
+* [omoreno-](https://github.com/oscarmorenosancho)
 * julolle-
-* sersanch
+* [sersanch](https://github.com/sszahinos)
